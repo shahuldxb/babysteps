@@ -1,0 +1,19 @@
+langchain 
+langchain-openai 
+langchain-community 
+langchain-postgres
+psycopg
+tqdm
+psycopg-binary
+pdfminer.six 
+PyPDF2 
+pandas 
+openpyxl xlrd==1.2.0 
+python-pptx 
+textract 
+striprtf 
+sqlalchemy 
+langchain 
+langchain-openai 
+langchain-postgres 
+tqdm 
